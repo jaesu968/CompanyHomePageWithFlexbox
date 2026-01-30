@@ -174,7 +174,7 @@ body {
     color: #fff;
 }
 
-#team-container .teammates {
+#team .teammates {
     display: flex; 
     flex-wrap: wrap; /* allow wrapping to new lines */
     justify-content: center;
