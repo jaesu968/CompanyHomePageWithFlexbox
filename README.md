@@ -35,4 +35,3 @@ This project is a responsive company homepage built using CSS Flexbox. It demons
 - Images: credits are provided in the footer of the site. 
 
 ---
-# CompanyHomePageWithFlexbox
